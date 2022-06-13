@@ -1,7 +1,3 @@
-## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/V16220?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
------
-For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
-
 # Hands-On Cross-Platform Development with Xamarin.Forms [Video]
 This is the code repository for [Hands-On Cross-Platform Development with Xamarin.Forms](https://www.packtpub.com/mobile/hands-on-cross-platform-development-with-xamarin-forms-video). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
