@@ -50,3 +50,7 @@ More information at http://visualstudio.com
 * [Mastering Xamarin.Forms - Third Edition](https://www.packtpub.com/mobile/mastering-xamarin-forms-third-edition)
 
 * [Xamarin.Forms 4 Projects - Second Edition](https://www.packtpub.com/mobile/xamarin-forms-4-projects-second-edition)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781800207226">https://packt.link/free-ebook/9781800207226 </a> </p>
